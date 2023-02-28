@@ -8,6 +8,10 @@
 
 #### Chapter-4 : [Class Component](https://github.com/sanjaygd/react-basics/tree/ef56c586386447b1fe387e641c7c54a194122976)
 
-#### Chapter-5 : [Class Component](https://github.com/sanjaygd/react-basics/tree/c4b9add532d1804303aa28c7a94f0e1a98f867d9)
+#### Chapter-5 : [Props](https://github.com/sanjaygd/react-basics/tree/c4b9add532d1804303aa28c7a94f0e1a98f867d9)
+
+
+#### Chapter-6 : [State](https://github.com/sanjaygd/react-basics/tree/1f5171c5f6a24eb693c0380b6a181d78046b4956)
+
 
 
