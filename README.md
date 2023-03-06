@@ -16,6 +16,6 @@
 
 #### Chapter-6 : [setState](https://github.com/sanjaygd/react-basics/tree/1a2b4f96d969a56d3b5857593622af3e2e07ee49)
 
-
+#### Chapter-6 : [destructuring](https://github.com/sanjaygd/react-basics/tree/433e5e0f04fb580a63daafc81e7f4cc2591424bb)
 
 
